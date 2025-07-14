@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: ../docs
+
+book:
+  title: "Hands-On Research Data Management"
+  author: "Research Data Support<br>Utrecht University"
+  date: last-modified
+  page-navigation: true
+  sidebar:
+    search: true
+    pinned: true
+    alignment: center
+    style: docked
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+  
+  repo-url: https://github.com/UtrechtUniversity/workshop-rdm
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: 
+      light: [cosmo, styles/theme-light.scss]
+      dark: [cosmo, styles/theme-dark.scss]
+
+
+
