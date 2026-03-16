@@ -3,7 +3,7 @@ project:
   output-dir: ../docs
 
 book:
-  title: "Hands-On Research Data Management"
+  title: "RDM 101"
   author: "Research Data Support<br>Utrecht University"
   date: last-modified
   page-navigation: true
@@ -14,13 +14,9 @@ book:
     style: docked
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - outline.qmd
   
   repo-url: https://github.com/UtrechtUniversity/workshop-rdm
-
-bibliography: references.bib
 
 format:
   html:

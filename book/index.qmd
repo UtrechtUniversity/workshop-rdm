@@ -1,5 +1,5 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+This is a Quarto book. Here we're creating an outline for one or more workshops on Research Data Management (RDM).
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.

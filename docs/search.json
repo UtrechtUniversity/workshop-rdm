@@ -2,41 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hands-On Research Data Management",
+    "title": "RDM 101",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nThis is a Quarto book. Here we’re creating an outline for one or more workshops on Research Data Management (RDM).\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
     "crumbs": [
       "Preface"
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "outline.html",
+    "href": "outline.html",
+    "title": "Outline",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "Opening",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Outline"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "outline.html#opening",
+    "href": "outline.html#opening",
+    "title": "Outline",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.",
+    "text": "Instructor Introductions\nParticipant Introductions\n\nRole & Faculty\nWhat brought you to the workshop?",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "Outline"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "objectID": "outline.html#data-data-data",
+    "href": "outline.html#data-data-data",
+    "title": "Outline",
+    "section": "Data, Data, Data",
+    "text": "Data, Data, Data\n\nWhat data do you work with? Note on the whiteboard.\nDefinition of (Research) Data\nAny additions to the whiteboard after the definition / before moving on?",
     "crumbs": [
-      "References"
+      "Outline"
+    ]
+  },
+  {
+    "objectID": "outline.html#todays-workshop",
+    "href": "outline.html#todays-workshop",
+    "title": "Outline",
+    "section": "Today’s Workshop",
+    "text": "Today’s Workshop\nWe will follow the research data lifecycle to cover the following topics. We will do our best to ensure all the data types you mentioned are covered.\n\ninsert topic\ninsert topic",
+    "crumbs": [
+      "Outline"
+    ]
+  },
+  {
+    "objectID": "outline.html#definitions",
+    "href": "outline.html#definitions",
+    "title": "Outline",
+    "section": "Definitions",
+    "text": "Definitions\nBefore getting into the research data lifecycle, we want to address some definitions:\n\nResearch Data Management\nFAIR Principles\nCARE Principles\nOpen Data",
+    "crumbs": [
+      "Outline"
+    ]
+  },
+  {
+    "objectID": "outline.html#importance-of-rdm",
+    "href": "outline.html#importance-of-rdm",
+    "title": "Outline",
+    "section": "Importance of RDM",
+    "text": "Importance of RDM\nOf the definitions we mentioned, our workshop will focus on RDM as an activity. Why is RDM important?\n\ninsert data horror stories\ninsert data success stories",
+    "crumbs": [
+      "Outline"
     ]
   }
 ]
