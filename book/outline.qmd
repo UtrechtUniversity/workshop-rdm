@@ -15,23 +15,27 @@
 
 ## Today's Workshop
 
+![source: RDM Kit](images/research-data-lifecycle.png){width=50%}
+
 We will follow the research data lifecycle to cover the following topics. We will do our best to ensure all the data types you mentioned are covered.
 
-  - insert topic
-  - insert topic
+  - _insert topic_
+  - _insert topic_
 
 ## Definitions
 
 Before getting into the research data lifecycle, we want to address some definitions:
 
 - Research Data Management
-- FAIR Principles
-- CARE Principles
+- [FAIR Principles](https://www.nature.com/articles/sdata201618)
+- [CARE Principles](https://datascience.codata.org/articles/dsj-2020-043)
 - Open Data
+
+![source: gida-global](images/fair-and-care.png){width=50%}
 
 ## Importance of RDM
 
 Of the definitions we mentioned, our workshop will focus on RDM as an activity. Why is RDM important?
 
-- insert data horror stories
-- insert data success stories
+- _insert data horror stories_
+- _insert data success stories_

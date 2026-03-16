@@ -44,7 +44,7 @@
     "href": "outline.html#todays-workshop",
     "title": "Outline",
     "section": "Today’s Workshop",
-    "text": "Today’s Workshop\nWe will follow the research data lifecycle to cover the following topics. We will do our best to ensure all the data types you mentioned are covered.\n\ninsert topic\ninsert topic",
+    "text": "Today’s Workshop\n\n\n\nsource: RDM Kit\n\n\nWe will follow the research data lifecycle to cover the following topics. We will do our best to ensure all the data types you mentioned are covered.\n\ninsert topic\ninsert topic",
     "crumbs": [
       "Outline"
     ]
@@ -54,7 +54,7 @@
     "href": "outline.html#definitions",
     "title": "Outline",
     "section": "Definitions",
-    "text": "Definitions\nBefore getting into the research data lifecycle, we want to address some definitions:\n\nResearch Data Management\nFAIR Principles\nCARE Principles\nOpen Data",
+    "text": "Definitions\nBefore getting into the research data lifecycle, we want to address some definitions:\n\nResearch Data Management\nFAIR Principles\nCARE Principles\nOpen Data\n\n\n\n\nsource: gida-global",
     "crumbs": [
       "Outline"
     ]
