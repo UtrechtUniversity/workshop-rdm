@@ -6,10 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Research Data Support Utrecht University">
-<meta name="dcterms.date" content="2026-05-26">
+<meta name="author" content="AdM">
 
-<title>RDM 101</title>
+<title>4&nbsp; Process_Analyse – RDM 101</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,7 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./outline.html" rel="next">
+<link href="./preserve.html" rel="next">
+<link href="./collect.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -249,7 +249,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Preface</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./process_analyse.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Process_Analyse</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -280,7 +280,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Preface</span></a>
   </div>
 </li>
@@ -310,7 +310,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./process_analyse.html" class="sidebar-item-text sidebar-link">
+  <a href="./process_analyse.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Process_Analyse</span></span></a>
   </div>
 </li>
@@ -336,7 +336,21 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#preface" id="toc-preface" class="nav-link active" data-scroll-target="#preface">Preface</a></li>
+  <li><a href="#processing-and-analysing-your-data" id="toc-processing-and-analysing-your-data" class="nav-link active" data-scroll-target="#processing-and-analysing-your-data"><span class="header-section-number">5</span> Processing and analysing your data</a>
+  <ul class="collapse">
+  <li><a href="#data-organisation" id="toc-data-organisation" class="nav-link" data-scroll-target="#data-organisation"><span class="header-section-number">5.1</span> Data organisation</a>
+  <ul class="collapse">
+  <li><a href="#folder-structure" id="toc-folder-structure" class="nav-link" data-scroll-target="#folder-structure"><span class="header-section-number">5.1.1</span> Folder structure</a></li>
+  <li><a href="#file-naming" id="toc-file-naming" class="nav-link" data-scroll-target="#file-naming"><span class="header-section-number">5.1.2</span> File naming</a></li>
+  <li><a href="#version-control" id="toc-version-control" class="nav-link" data-scroll-target="#version-control"><span class="header-section-number">5.1.3</span> Version control</a></li>
+  </ul></li>
+  <li><a href="#data-documentation" id="toc-data-documentation" class="nav-link" data-scroll-target="#data-documentation"><span class="header-section-number">5.2</span> Data documentation</a>
+  <ul class="collapse">
+  <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation"><span class="header-section-number">5.2.1</span> Documentation</a></li>
+  <li><a href="#metadata" id="toc-metadata" class="nav-link" data-scroll-target="#metadata"><span class="header-section-number">5.2.2</span> Metadata</a></li>
+  <li><a href="#codebooks" id="toc-codebooks" class="nav-link" data-scroll-target="#codebooks"><span class="header-section-number">5.2.3</span> Codebooks</a></li>
+  </ul></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -346,7 +360,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">RDM 101</h1>
+<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Process_Analyse</span></h1>
 </div>
 
 
@@ -356,16 +370,10 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Research Data Support<br>Utrecht University </p>
+             <p>AdM </p>
           </div>
   </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">May 26, 2026</p>
-    </div>
-  </div>
   
     
   </div>
@@ -375,12 +383,34 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="preface" class="level1 unnumbered">
-<h1 class="unnumbered">Preface</h1>
-<p>Here we’re creating an <a href="./outline.html">outline</a> for one or more workshops on Research Data Management (RDM).</p>
-<p>This is a Quarto book. To learn more about Quarto books visit <a href="https://quarto.org/docs/books" class="uri">https://quarto.org/docs/books</a>.</p>
+<section id="processing-and-analysing-your-data" class="level1" data-number="5">
+<h1 data-number="5"><span class="header-section-number">5</span> Processing and analysing your data</h1>
+<section id="data-organisation" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="data-organisation"><span class="header-section-number">5.1</span> Data organisation</h2>
+<section id="folder-structure" class="level3" data-number="5.1.1">
+<h3 data-number="5.1.1" class="anchored" data-anchor-id="folder-structure"><span class="header-section-number">5.1.1</span> Folder structure</h3>
+</section>
+<section id="file-naming" class="level3" data-number="5.1.2">
+<h3 data-number="5.1.2" class="anchored" data-anchor-id="file-naming"><span class="header-section-number">5.1.2</span> File naming</h3>
+</section>
+<section id="version-control" class="level3" data-number="5.1.3">
+<h3 data-number="5.1.3" class="anchored" data-anchor-id="version-control"><span class="header-section-number">5.1.3</span> Version control</h3>
+</section>
+</section>
+<section id="data-documentation" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="data-documentation"><span class="header-section-number">5.2</span> Data documentation</h2>
+<section id="documentation" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="documentation"><span class="header-section-number">5.2.1</span> Documentation</h3>
+</section>
+<section id="metadata" class="level3" data-number="5.2.2">
+<h3 data-number="5.2.2" class="anchored" data-anchor-id="metadata"><span class="header-section-number">5.2.2</span> Metadata</h3>
+</section>
+<section id="codebooks" class="level3" data-number="5.2.3">
+<h3 data-number="5.2.3" class="anchored" data-anchor-id="codebooks"><span class="header-section-number">5.2.3</span> Codebooks</h3>
 
 
+</section>
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -799,10 +829,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./collect.html" class="pagination-link" aria-label="collect">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">collect</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./outline.html" class="pagination-link" aria-label="Outline">
-        <span class="nav-page-text">Outline</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./preserve.html" class="pagination-link" aria-label="preserve">
+        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">preserve</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
