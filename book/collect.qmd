@@ -1,9 +1,4 @@
----
-title: "collect"
-author: "AdM"
-format: html
----
-# Collecting data
+# Collecting data {.unnumbered}
 
 ## Data collection table
     ? link to Plan?

@@ -1,9 +1,4 @@
----
-title: "preserve"
-author: "AdM"
-format: html
----
-# Preserving data
+# Preserving data {.unnumbered}
 
 ## Storing data
 ### Storage solutions

@@ -1,10 +1,4 @@
----
-title: "reuse"
-author: "AdM"
-format: html
----
-
-# Reusing data
+# Reusing data {.unnumbered}
 
 ## Exploring published datasets
 

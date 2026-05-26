@@ -1,9 +1,4 @@
----
-title: "plan"
-format: html
-author: AdM
----
-# Planning your experiments
+# Planning your experiments {.unnumbered}
 It all starts with a good plan! 
 
 ## Data Management Plans (DMPs)

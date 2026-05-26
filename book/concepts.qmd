@@ -1,9 +1,4 @@
----
-title: "Key Concepts"
-format: html
-author: AdM
----
-# Key Concepts
+# Key Concepts {.unnumbered}
 Before we get started with getting into details, let's first agree what we mean
 with some key concepts. 
 

@@ -1,9 +1,4 @@
----
-title: "share"
-author: "AdM"
-format: html
----
-# Sharing your data
+# Sharing your data {.unnumbered}
     Link to open data
 
 ## Data publication
