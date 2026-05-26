@@ -15,6 +15,12 @@ book:
   chapters:
     - index.qmd
     - outline.qmd
+    - concepts.qmd
+    - plan.qmd
+    - collect.qmd
+    - process_analyse.qmd
+    - preserve.qmd
+    - share.qmd
   
   repo-url: https://github.com/UtrechtUniversity/workshop-rdm
 
