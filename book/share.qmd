@@ -1,0 +1,19 @@
+---
+title: "share"
+author: "AdM"
+format: html
+---
+# Sharing your data
+    Link to open data
+
+## Data publication
+### Publishing data
+
+### Repositories
+
+### Licensing
+
+## Data Publication Papers (Deep Dive)
+
+
+

@@ -1,0 +1,15 @@
+---
+title: "collect"
+author: "AdM"
+format: html
+---
+# Collecting data
+
+## Data collection table
+    ? link to Plan?
+
+## Preferred formats
+Some formats are preferable. 
+   ?DeepDive: conversion methods?
+
+

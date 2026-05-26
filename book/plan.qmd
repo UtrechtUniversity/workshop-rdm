@@ -1,0 +1,14 @@
+---
+title: "plan"
+format: html
+author: AdM
+---
+# Planning your experiments
+It all starts with a good plan! 
+
+## Data Management Plans (DMPs)
+Not just because you have to!
+    ? data collection tables? 
+
+## Data Flow Diagrams
+Let it flow...

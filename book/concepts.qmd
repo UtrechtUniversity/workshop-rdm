@@ -1,0 +1,45 @@
+---
+title: "Key Concepts"
+format: html
+author: AdM
+---
+# Key Concepts
+Before we get started with getting into details, let's first agree what we mean
+with some key concepts. 
+
+## Data
+Along your research journey you collect a lot of data, but what do we mean by “data”?
+
+This depends very much on your discipline. It can be images, literature, musical scores, scans, geographical data, interviews, etc. But also tools you create, code you write and analyzed results count as data, which all needs to be “managed”
+
+After you collected it, you want your data to keep having an impact, even if you move labs.
+Therefore the data needs to be usable and understandable by you, but also your research group and preferably you want it to be fit for reuse by other labs. 
+And then the question is: how trustworthy and sharable is your data? 
+
+## Research Data Lifecycle
+The research data lifecycle is like a journey that research data takes
+from the moment you plan your study and gather information, all the way to storing it safely or deciding what to do with it afterward. 
+Think of it as a roadmap that helps researchers keep their data organized, trustworthy, and useful at every step of their project.
+
+## Research Data Management
+RDM refers to the active organization and maintenance of data created during a research project. 
+
+It is an ongoing activity throughout the data lifecycle, from initial planning to suitable archiving of the data at the project’s completion.  
+
+RDM should be guided by the FAIR principles
+### link to importance of RDM
+
+## FAIR data
+What does FAIR stand for? 
+
+
+## Open data
+“Open Data is data that can be freely used, re-used and redistributed 
+by anyone subject only, at most, to the requirements to attribute and share-alike ”    
+(link to The Open Data Handbook)
+
+The A in FAIR means accessible, but that does not immediately mean that your data needs to be fully open for everybody to use. 
+So if there are privacy or patent issues, you can still perform FAIR practices, without having your data openly available.
+
+
+

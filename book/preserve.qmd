@@ -1,0 +1,19 @@
+---
+title: "preserve"
+author: "AdM"
+format: html
+---
+# Preserving data
+
+## Storing data
+### Storage solutions
+
+### Personal data
+
+### Data security and privacy
+
+
+## Archiving data
+
+
+

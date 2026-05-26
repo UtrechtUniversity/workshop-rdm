@@ -1,0 +1,25 @@
+---
+title: "Process_Analyse"
+author: "AdM"
+format: html
+---
+
+# Processing and analysing your data
+
+
+## Data organisation
+### Folder structure 
+
+### File naming
+
+### Version control
+
+
+## Data documentation
+### Documentation 
+
+### Metadata
+
+### Codebooks
+
+
