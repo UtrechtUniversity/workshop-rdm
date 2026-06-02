@@ -15,7 +15,7 @@
 
 ## Today's Workshop
 
-![source: RDM Kit](images/research-data-lifecycle.png){width=50%}
+![source: RDM Kit](images/data_life_cycle.png){width=50%}
 
 We will follow the research data lifecycle to cover the following topics. We will do our best to ensure all the data types you mentioned are covered.
 

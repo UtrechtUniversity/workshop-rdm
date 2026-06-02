@@ -74,7 +74,7 @@
     "href": "concepts.html",
     "title": "Key Concepts",
     "section": "",
-    "text": "Data\nBefore we get started with getting into details, let’s first agree what we mean with some key concepts.\nAlong your research journey you collect a lot of data, but what do we mean by “data”?\nThis depends very much on your discipline. It can be images, literature, musical scores, scans, geographical data, interviews, etc. But also tools you create, code you write and analyzed results count as data, which all needs to be “managed”\nAfter you collected it, you want your data to keep having an impact, even if you move labs. Therefore the data needs to be usable and understandable by you, but also your research group and preferably you want it to be fit for reuse by other labs. And then the question is: how trustworthy and sharable is your data?",
+    "text": "Data\nBefore we get started with getting into details, let’s first agree what we mean with some key concepts.\nAlong your research journey you collect a lot of data, but what do we mean by “data”?\nThis depends very much on your discipline. It can be images, literature, musical scores, scans, geographical data, interviews, etc. But also tools you create, code you write and analyzed results count as data, which all needs to be “managed”\nAfter you collect it, you want your data to keep having an impact, even if you move labs. Therefore the data needs to be usable and understandable by you, but also your research group and preferably you want it to be fit for reuse by other labs. And then the question is: how trustworthy and sharable is your data?",
     "crumbs": [
       "Key Concepts"
     ]
