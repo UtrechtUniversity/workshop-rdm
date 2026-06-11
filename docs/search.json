@@ -72,51 +72,61 @@
   {
     "objectID": "concepts.html",
     "href": "concepts.html",
-    "title": "Key Concepts",
+    "title": "1  Key Concepts",
     "section": "",
-    "text": "Data\nBefore we get started with getting into details, let’s first agree what we mean with some key concepts.\nAlong your research journey you collect a lot of data, but what do we mean by “data”?\nThis depends very much on your discipline. It can be images, literature, musical scores, scans, geographical data, interviews, etc. But also tools you create, code you write and analyzed results count as data, which all needs to be “managed”\nAfter you collect it, you want your data to keep having an impact, even if you move labs. Therefore the data needs to be usable and understandable by you, but also your research group and preferably you want it to be fit for reuse by other labs. And then the question is: how trustworthy and sharable is your data?",
+    "text": "1.1 Data\nBefore we get started with getting into details, let’s first agree what we mean with some key concepts.",
     "crumbs": [
-      "Key Concepts"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "concepts.html#data",
+    "href": "concepts.html#data",
+    "title": "1  Key Concepts",
+    "section": "",
+    "text": "Along your research journey you collect a lot of data, but what do we mean by “data”?\nThis depends very much on your discipline. It can be images, literature, musical scores, scans, geographical data, interviews, etc. But also tools you create, code you write and analyzed results count as data, which all needs to be “managed”.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
     ]
   },
   {
     "objectID": "concepts.html#research-data-lifecycle",
     "href": "concepts.html#research-data-lifecycle",
-    "title": "Key Concepts",
-    "section": "Research Data Lifecycle",
-    "text": "Research Data Lifecycle\nThe research data lifecycle is like a journey that research data takes from the moment you plan your study and gather information, all the way to storing it safely or deciding what to do with it afterward. Think of it as a roadmap that helps researchers keep their data organized, trustworthy, and useful at every step of their project.",
+    "title": "1  Key Concepts",
+    "section": "1.2 Research Data Lifecycle",
+    "text": "1.2 Research Data Lifecycle\n\n\nThe research data lifecycle is like a journey that research data takes from the moment you plan your study and gather information, all the way to storing it safely or deciding what to do with it afterward. Think of it as a roadmap that helps researchers keep their data organized, trustworthy, and useful at every step of their project.\n\n\n\nSource: Alper et al. (2025) RDMkit",
     "crumbs": [
-      "Key Concepts"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
     ]
   },
   {
     "objectID": "concepts.html#research-data-management",
     "href": "concepts.html#research-data-management",
-    "title": "Key Concepts",
-    "section": "Research Data Management",
-    "text": "Research Data Management\nRDM refers to the active organization and maintenance of data created during a research project.\nIt is an ongoing activity throughout the data lifecycle, from initial planning to suitable archiving of the data at the project’s completion.\nRDM should be guided by the FAIR principles ### link to importance of RDM",
+    "title": "1  Key Concepts",
+    "section": "1.3 Research Data Management",
+    "text": "1.3 Research Data Management\n\n\nRDM refers to the active organization and maintenance of data created during a research project.\nIt is an ongoing activity throughout the data lifecycle, from initial planning to suitable archiving of the data at the project’s completion.\nIf you plan in advance and invest in good (FAIR) data management practices\n\n\n\nSource: Jørgen Stamp (https://digitalbevaring.dk) \n\n\n\n————–&gt;&gt;&gt;&gt;&gt; link to importance of RDM in intro",
     "crumbs": [
-      "Key Concepts"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
     ]
   },
   {
     "objectID": "concepts.html#fair-data",
     "href": "concepts.html#fair-data",
-    "title": "Key Concepts",
-    "section": "FAIR data",
-    "text": "FAIR data\nWhat does FAIR stand for?",
+    "title": "1  Key Concepts",
+    "section": "1.4 FAIR data",
+    "text": "1.4 FAIR data\n\n\nAfter you collect it, you want your data to keep having an impact, even if you move labs. Therefore the data needs to be usable and understandable by you, but also your research group and preferably you want it to be fit for reuse by other labs. And then the question is: how trustworthy and sharable is your data?\nThis is where making your data FAIR comes into play.\n\n\n\nSource: Center for Open Science",
     "crumbs": [
-      "Key Concepts"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
     ]
   },
   {
     "objectID": "concepts.html#open-data",
     "href": "concepts.html#open-data",
-    "title": "Key Concepts",
-    "section": "Open data",
-    "text": "Open data\n“Open Data is data that can be freely used, re-used and redistributed by anyone subject only, at most, to the requirements to attribute and share-alike”\n(link to The Open Data Handbook)\nThe A in FAIR means accessible, but that does not immediately mean that your data needs to be fully open for everybody to use. So if there are privacy or patent issues, you can still perform FAIR practices, without having your data openly available.",
+    "title": "1  Key Concepts",
+    "section": "1.5 Open data",
+    "text": "1.5 Open data\n\n\n“Open Data is data that can be freely used, re-used and redistributed by anyone subject only, at most, to the requirements to attribute and share-alike”\n(link to The Open Data Handbook)\nThe A in FAIR means accessible, but that does not immediately mean that your data needs to be fully open for everybody to use. So if there are privacy or patent issues, you can still perform FAIR practices, without having your data openly available.",
     "crumbs": [
-      "Key Concepts"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
     ]
   },
   {
@@ -257,6 +267,16 @@
     "text": "Data Publication Papers (Deep Dive)",
     "crumbs": [
       "Sharing your data"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "2  References",
+    "section": "",
+    "text": "Alper, P., D’Anna, F., Droesbeke, B., Andrabi, M., Buono, R. A.,\nBianchini, F., Bösl, K., Chandramouliswaran, I., Cook, M., Faria, D.,\nFatima, N., Hooft, R., Jareborg, N., Jetten, M., Pilvar, D.,\nPoires-Oliveira, G., Popleteeva, M., Portell-Silva, L., Slifka, J., …\nGoble, C. (2025). RDMkit: A research data management\ntoolkit for life sciences. Patterns. https://doi.org/10.1016/j.patter.2025.101345",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>References</span>"
     ]
   }
 ]

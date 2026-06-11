@@ -21,14 +21,20 @@ book:
     - process_analyse.qmd
     - preserve.qmd
     - share.qmd
+    - references.qmd
   
   repo-url: https://github.com/UtrechtUniversity/workshop-rdm
+  
+bibliography: references.bib
+csl: https://www.zotero.org/styles/apa
+suppress-bibliography: true
 
 format:
   html:
     theme: 
       light: [cosmo, styles/theme-light.scss]
       dark: [cosmo, styles/theme-dark.scss]
+      
 
 
 
