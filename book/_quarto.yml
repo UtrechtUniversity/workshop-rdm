@@ -1,6 +1,9 @@
 project:
   type: book
   output-dir: ../docs
+  
+resources:
+  - slides/
 
 book:
   title: "Quickstart to RDM"
@@ -21,6 +24,7 @@ book:
     - process_analyse.qmd
     - preserve.qmd
     - share.qmd
+    - reuse.qmd
     - references.qmd
   
   repo-url: https://github.com/UtrechtUniversity/workshop-rdm

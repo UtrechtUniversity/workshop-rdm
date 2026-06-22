@@ -1,6 +1,15 @@
 # Planning your experiments {.unnumbered}
 It all starts with a good plan! 
 
+## Slides
+
+```{=html}
+<iframe
+  src="presentation2.html#/plan"
+  style="width:100%; height:80vh; border:none;">
+</iframe>
+```
+
 ## Data Management Plans (DMPs)
 Not just because you have to!
     ? data collection tables? 

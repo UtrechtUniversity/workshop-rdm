@@ -1,6 +1,15 @@
 # Sharing your data {.unnumbered}
     Link to open data
 
+ ## Slides
+
+```{=html}
+<iframe
+  src="presentation2.html#/publishing"
+  style="width:100%; height:80vh; border:none;">
+</iframe>
+```
+
 ## Data publication
 ### Publishing data
 

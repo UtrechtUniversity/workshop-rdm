@@ -134,7 +134,17 @@
     "href": "plan.html",
     "title": "Planning your experiments",
     "section": "",
-    "text": "Data Management Plans (DMPs)\nIt all starts with a good plan!\nNot just because you have to! ? data collection tables?",
+    "text": "Slides\nIt all starts with a good plan!",
+    "crumbs": [
+      "Planning your experiments"
+    ]
+  },
+  {
+    "objectID": "plan.html#data-management-plans-dmps",
+    "href": "plan.html#data-management-plans-dmps",
+    "title": "Planning your experiments",
+    "section": "Data Management Plans (DMPs)",
+    "text": "Data Management Plans (DMPs)\nNot just because you have to! ? data collection tables?",
     "crumbs": [
       "Planning your experiments"
     ]
@@ -154,7 +164,7 @@
     "href": "collect.html",
     "title": "Collecting data",
     "section": "",
-    "text": "Data collection table",
+    "text": "Slides",
     "crumbs": [
       "Collecting data"
     ]
@@ -163,8 +173,8 @@
     "objectID": "collect.html#data-collection-table",
     "href": "collect.html#data-collection-table",
     "title": "Collecting data",
-    "section": "",
-    "text": "? link to Plan?",
+    "section": "Data collection table",
+    "text": "Data collection table\n? link to Plan?",
     "crumbs": [
       "Collecting data"
     ]
@@ -184,7 +194,7 @@
     "href": "process_analyse.html",
     "title": "Processing and analysing your data",
     "section": "",
-    "text": "Data organisation",
+    "text": "Slides",
     "crumbs": [
       "Processing and analysing your data"
     ]
@@ -193,8 +203,8 @@
     "objectID": "process_analyse.html#data-organisation",
     "href": "process_analyse.html#data-organisation",
     "title": "Processing and analysing your data",
-    "section": "",
-    "text": "Folder structure\n\n\nFile naming\n\n\nVersion control",
+    "section": "Data organisation",
+    "text": "Data organisation\n\nFolder structure\n\n\nFile naming\n\n\nVersion control",
     "crumbs": [
       "Processing and analysing your data"
     ]
@@ -214,7 +224,7 @@
     "href": "preserve.html",
     "title": "Preserving data",
     "section": "",
-    "text": "Storing data",
+    "text": "Slides",
     "crumbs": [
       "Preserving data"
     ]
@@ -223,8 +233,8 @@
     "objectID": "preserve.html#storing-data",
     "href": "preserve.html#storing-data",
     "title": "Preserving data",
-    "section": "",
-    "text": "Storage solutions\n\n\nPersonal data\n\n\nData security and privacy",
+    "section": "Storing data",
+    "text": "Storing data\n\nStorage solutions\n\n\nPersonal data\n\n\nData security and privacy",
     "crumbs": [
       "Preserving data"
     ]
@@ -244,7 +254,7 @@
     "href": "share.html",
     "title": "Sharing your data",
     "section": "",
-    "text": "Data publication",
+    "text": "Data publication\n## Slides",
     "crumbs": [
       "Sharing your data"
     ]
@@ -267,6 +277,26 @@
     "text": "Data Publication Papers (Deep Dive)",
     "crumbs": [
       "Sharing your data"
+    ]
+  },
+  {
+    "objectID": "reuse.html",
+    "href": "reuse.html",
+    "title": "Data Reuse",
+    "section": "",
+    "text": "Slides",
+    "crumbs": [
+      "Data Reuse"
+    ]
+  },
+  {
+    "objectID": "reuse.html#exploring-published-datasets",
+    "href": "reuse.html#exploring-published-datasets",
+    "title": "Data Reuse",
+    "section": "Exploring published datasets",
+    "text": "Exploring published datasets\n\nFinding\n\n\nQuality control",
+    "crumbs": [
+      "Data Reuse"
     ]
   },
   {
