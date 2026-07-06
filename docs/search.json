@@ -254,7 +254,7 @@
     "href": "share.html",
     "title": "Sharing your data",
     "section": "",
-    "text": "Data publication\n## Slides",
+    "text": "Slides",
     "crumbs": [
       "Sharing your data"
     ]
@@ -263,8 +263,8 @@
     "objectID": "share.html#data-publication",
     "href": "share.html#data-publication",
     "title": "Sharing your data",
-    "section": "",
-    "text": "Publishing data\n\n\nRepositories\n\n\nLicensing",
+    "section": "Data publication",
+    "text": "Data publication\n\nPublishing data\n\n\nRepositories\n\n\nLicensing",
     "crumbs": [
       "Sharing your data"
     ]
