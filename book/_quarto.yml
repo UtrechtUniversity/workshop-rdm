@@ -26,6 +26,7 @@ book:
     - share.qmd
     - reuse.qmd
     - references.qmd
+    - support.qmd
   
   repo-url: https://github.com/UtrechtUniversity/workshop-rdm
   
