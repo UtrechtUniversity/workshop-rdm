@@ -132,181 +132,181 @@
   {
     "objectID": "plan.html",
     "href": "plan.html",
-    "title": "Planning your experiments",
+    "title": "2  Planning your experiments",
     "section": "",
     "text": "Slides\nIt all starts with a good plan!",
     "crumbs": [
-      "Planning your experiments"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Planning your experiments</span>"
     ]
   },
   {
     "objectID": "plan.html#data-management-plans-dmps",
     "href": "plan.html#data-management-plans-dmps",
-    "title": "Planning your experiments",
-    "section": "Data Management Plans (DMPs)",
-    "text": "Data Management Plans (DMPs)\nNot just because you have to! ? data collection tables?",
+    "title": "2  Planning your experiments",
+    "section": "2.1 Data Management Plans (DMPs)",
+    "text": "2.1 Data Management Plans (DMPs)\nNot just because you have to! ? data collection tables?",
     "crumbs": [
-      "Planning your experiments"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Planning your experiments</span>"
     ]
   },
   {
     "objectID": "plan.html#data-flow-diagrams",
     "href": "plan.html#data-flow-diagrams",
-    "title": "Planning your experiments",
-    "section": "Data Flow Diagrams",
-    "text": "Data Flow Diagrams\nLet it flow…",
+    "title": "2  Planning your experiments",
+    "section": "2.2 Data Flow Diagrams",
+    "text": "2.2 Data Flow Diagrams\nLet it flow…",
     "crumbs": [
-      "Planning your experiments"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Planning your experiments</span>"
     ]
   },
   {
     "objectID": "collect.html",
     "href": "collect.html",
-    "title": "Collecting data",
+    "title": "3  Collecting data",
     "section": "",
     "text": "Slides",
     "crumbs": [
-      "Collecting data"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Collecting data</span>"
     ]
   },
   {
     "objectID": "collect.html#data-collection-table",
     "href": "collect.html#data-collection-table",
-    "title": "Collecting data",
-    "section": "Data collection table",
-    "text": "Data collection table\n? link to Plan?",
+    "title": "3  Collecting data",
+    "section": "3.1 Data collection table",
+    "text": "3.1 Data collection table\n? link to Plan?",
     "crumbs": [
-      "Collecting data"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Collecting data</span>"
     ]
   },
   {
     "objectID": "collect.html#preferred-formats",
     "href": "collect.html#preferred-formats",
-    "title": "Collecting data",
-    "section": "Preferred formats",
-    "text": "Preferred formats\nSome formats are preferable. ?DeepDive: conversion methods?",
+    "title": "3  Collecting data",
+    "section": "3.2 Preferred formats",
+    "text": "3.2 Preferred formats\nSome formats are preferable. ?DeepDive: conversion methods?",
     "crumbs": [
-      "Collecting data"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Collecting data</span>"
     ]
   },
   {
     "objectID": "process_analyse.html",
     "href": "process_analyse.html",
-    "title": "Processing and analysing your data",
+    "title": "4  Processing and analysing your data",
     "section": "",
     "text": "Slides",
     "crumbs": [
-      "Processing and analysing your data"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Processing and analysing your data</span>"
     ]
   },
   {
     "objectID": "process_analyse.html#data-organisation",
     "href": "process_analyse.html#data-organisation",
-    "title": "Processing and analysing your data",
-    "section": "Data organisation",
-    "text": "Data organisation\n\nFolder structure\n\n\nFile naming\n\n\nVersion control",
+    "title": "4  Processing and analysing your data",
+    "section": "4.1 Data organisation",
+    "text": "4.1 Data organisation\n\n4.1.1 Folder structure\n\n\n4.1.2 File naming\n\n\n4.1.3 Version control",
     "crumbs": [
-      "Processing and analysing your data"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Processing and analysing your data</span>"
     ]
   },
   {
     "objectID": "process_analyse.html#data-documentation",
     "href": "process_analyse.html#data-documentation",
-    "title": "Processing and analysing your data",
-    "section": "Data documentation",
-    "text": "Data documentation\n\nDocumentation\n\n\nMetadata\n\n\nCodebooks",
+    "title": "4  Processing and analysing your data",
+    "section": "4.2 Data documentation",
+    "text": "4.2 Data documentation\n\n4.2.1 Documentation\n\n\n4.2.2 Metadata\n\n\n4.2.3 Codebooks",
     "crumbs": [
-      "Processing and analysing your data"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Processing and analysing your data</span>"
     ]
   },
   {
     "objectID": "preserve.html",
     "href": "preserve.html",
-    "title": "Preserving data",
+    "title": "5  Preserving data",
     "section": "",
     "text": "Slides",
     "crumbs": [
-      "Preserving data"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Preserving data</span>"
     ]
   },
   {
     "objectID": "preserve.html#storing-data",
     "href": "preserve.html#storing-data",
-    "title": "Preserving data",
-    "section": "Storing data",
-    "text": "Storing data\n\nStorage solutions\n\n\nPersonal data\n\n\nData security and privacy",
+    "title": "5  Preserving data",
+    "section": "5.1 Storing data",
+    "text": "5.1 Storing data\n\n5.1.1 Storage solutions\n\n\n5.1.2 Personal data\n\n\n5.1.3 Data security and privacy",
     "crumbs": [
-      "Preserving data"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Preserving data</span>"
     ]
   },
   {
     "objectID": "preserve.html#archiving-data",
     "href": "preserve.html#archiving-data",
-    "title": "Preserving data",
-    "section": "Archiving data",
-    "text": "Archiving data",
+    "title": "5  Preserving data",
+    "section": "5.2 Archiving data",
+    "text": "5.2 Archiving data",
     "crumbs": [
-      "Preserving data"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Preserving data</span>"
     ]
   },
   {
     "objectID": "share.html",
     "href": "share.html",
-    "title": "Sharing your data",
+    "title": "6  Sharing your data",
     "section": "",
-    "text": "Slides",
+    "text": "Slides\nLink to open data",
     "crumbs": [
-      "Sharing your data"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Sharing your data</span>"
     ]
   },
   {
     "objectID": "share.html#data-publication",
     "href": "share.html#data-publication",
-    "title": "Sharing your data",
-    "section": "Data publication",
-    "text": "Data publication\n\nPublishing data\n\n\nRepositories\n\n\nLicensing",
+    "title": "6  Sharing your data",
+    "section": "6.1 Data publication",
+    "text": "6.1 Data publication\n\n6.1.1 Publishing data\n\n\n6.1.2 Repositories\n\n\n6.1.3 Licensing",
     "crumbs": [
-      "Sharing your data"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Sharing your data</span>"
     ]
   },
   {
     "objectID": "share.html#data-publication-papers-deep-dive",
     "href": "share.html#data-publication-papers-deep-dive",
-    "title": "Sharing your data",
-    "section": "Data Publication Papers (Deep Dive)",
-    "text": "Data Publication Papers (Deep Dive)",
+    "title": "6  Sharing your data",
+    "section": "6.2 Data Publication Papers (Deep Dive)",
+    "text": "6.2 Data Publication Papers (Deep Dive)",
     "crumbs": [
-      "Sharing your data"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Sharing your data</span>"
     ]
   },
   {
     "objectID": "reuse.html",
     "href": "reuse.html",
-    "title": "Data Reuse",
+    "title": "7  Data Reuse",
     "section": "",
     "text": "Slides",
     "crumbs": [
-      "Data Reuse"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Reuse</span>"
     ]
   },
   {
     "objectID": "reuse.html#exploring-published-datasets",
     "href": "reuse.html#exploring-published-datasets",
-    "title": "Data Reuse",
-    "section": "Exploring published datasets",
-    "text": "Exploring published datasets\n\nFinding\n\n\nQuality control",
+    "title": "7  Data Reuse",
+    "section": "7.1 Exploring published datasets",
+    "text": "7.1 Exploring published datasets\n\n7.1.1 Finding\n\n\n7.1.2 Quality control",
     "crumbs": [
-      "Data Reuse"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Reuse</span>"
     ]
   },
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "2  References",
+    "title": "8  References",
     "section": "",
     "text": "Alper, P., D’Anna, F., Droesbeke, B., Andrabi, M., Buono, R. A.,\nBianchini, F., Bösl, K., Chandramouliswaran, I., Cook, M., Faria, D.,\nFatima, N., Hooft, R., Jareborg, N., Jetten, M., Pilvar, D.,\nPoires-Oliveira, G., Popleteeva, M., Portell-Silva, L., Slifka, J., …\nGoble, C. (2025). RDMkit: A research data management\ntoolkit for life sciences. Patterns. https://doi.org/10.1016/j.patter.2025.101345",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>References</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>References</span>"
     ]
   }
 ]

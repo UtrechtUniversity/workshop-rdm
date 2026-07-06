@@ -1,7 +1,10 @@
-# Sharing your data {.unnumbered}
-    Link to open data
+---
+title: "Sharing your data"
+---
 
-## Slides
+Link to open data
+
+## Slides {.unnumbered}
 
 ```{=html}
 <iframe

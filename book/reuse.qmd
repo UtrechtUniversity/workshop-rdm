@@ -1,6 +1,8 @@
-# Data Reuse {.unnumbered}
+---
+title: "Data Reuse"
+---
 
-## Slides
+## Slides {.unnumbered}
 
 ```{=html}
 <iframe

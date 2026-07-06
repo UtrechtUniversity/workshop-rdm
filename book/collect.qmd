@@ -1,6 +1,9 @@
-# Collecting data {.unnumbered}
+---
+title: "Collecting data"
+---
 
-## Slides
+
+## Slides {.unnumbered}
 
 ```{=html}
 <iframe

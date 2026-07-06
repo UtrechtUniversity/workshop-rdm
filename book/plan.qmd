@@ -1,7 +1,10 @@
-# Planning your experiments {.unnumbered}
+---
+title: "Planning your experiments"
+---
+
 It all starts with a good plan! 
 
-## Slides
+## Slides {.unnumbered}
 
 ```{=html}
 <iframe

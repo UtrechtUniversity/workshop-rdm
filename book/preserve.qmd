@@ -1,6 +1,8 @@
-# Preserving data {.unnumbered}
+---
+title: "Preserving data"
+---
 
-## Slides
+## Slides {.unnumbered}
 
 ```{=html}
 <iframe
