@@ -3,7 +3,7 @@
 
 ```{=html}
 <iframe
-  src="presentation2.html#/organising"
+  src="slides/slides_quick.html#/organising"
   style="width:100%; height:80vh; border:none;">
 </iframe>
 ```

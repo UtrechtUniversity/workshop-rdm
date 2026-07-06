@@ -4,7 +4,7 @@
 
 ```{=html}
 <iframe
-  src="presentation2.html#/storing"
+  src="slides/slides_quick.html#/storing"
   style="width:100%; height:80vh; border:none;">
 </iframe>
 ```
