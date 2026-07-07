@@ -1,0 +1,322 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quickstart to RDM",
+    "section": "",
+    "text": "Preface\nHere we’re creating an outline for one or more workshops on Research Data Management (RDM).\nThis is a Quarto book. To learn more about Quarto books visit https://quarto.org/docs/books.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "outline.html",
+    "href": "outline.html",
+    "title": "Outline",
+    "section": "",
+    "text": "Opening",
+    "crumbs": [
+      "Outline"
+    ]
+  },
+  {
+    "objectID": "outline.html#opening",
+    "href": "outline.html#opening",
+    "title": "Outline",
+    "section": "",
+    "text": "Instructor Introductions\nParticipant Introductions\n\nRole & Faculty\nWhat brought you to the workshop?",
+    "crumbs": [
+      "Outline"
+    ]
+  },
+  {
+    "objectID": "outline.html#data-data-data",
+    "href": "outline.html#data-data-data",
+    "title": "Outline",
+    "section": "Data, Data, Data",
+    "text": "Data, Data, Data\n\nWhat data do you work with? Note on the whiteboard.\nDefinition of (Research) Data\nAny additions to the whiteboard after the definition / before moving on?",
+    "crumbs": [
+      "Outline"
+    ]
+  },
+  {
+    "objectID": "outline.html#todays-workshop",
+    "href": "outline.html#todays-workshop",
+    "title": "Outline",
+    "section": "Today’s Workshop",
+    "text": "Today’s Workshop\n\n\n\nsource: RDM Kit\n\n\nWe will follow the research data lifecycle to cover the following topics. We will do our best to ensure all the data types you mentioned are covered.\n\ninsert topic\ninsert topic",
+    "crumbs": [
+      "Outline"
+    ]
+  },
+  {
+    "objectID": "outline.html#definitions",
+    "href": "outline.html#definitions",
+    "title": "Outline",
+    "section": "Definitions",
+    "text": "Definitions\nBefore getting into the research data lifecycle, we want to address some definitions:\n\nResearch Data Management\nFAIR Principles\nCARE Principles\nOpen Data\n\n\n\n\nsource: gida-global",
+    "crumbs": [
+      "Outline"
+    ]
+  },
+  {
+    "objectID": "outline.html#importance-of-rdm",
+    "href": "outline.html#importance-of-rdm",
+    "title": "Outline",
+    "section": "Importance of RDM",
+    "text": "Importance of RDM\nOf the definitions we mentioned, our workshop will focus on RDM as an activity. Why is RDM important?\n\ninsert data horror stories\ninsert data success stories",
+    "crumbs": [
+      "Outline"
+    ]
+  },
+  {
+    "objectID": "concepts.html",
+    "href": "concepts.html",
+    "title": "1  Key Concepts",
+    "section": "",
+    "text": "1.1 Data\nBefore we get started with getting into details, let’s first agree what we mean with some key concepts.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "concepts.html#data",
+    "href": "concepts.html#data",
+    "title": "1  Key Concepts",
+    "section": "",
+    "text": "Along your research journey you collect a lot of data, but what do we mean by “data”?\nThis depends very much on your discipline. It can be images, literature, musical scores, scans, geographical data, interviews, etc. But also tools you create, code you write and analyzed results count as data, which all needs to be “managed”.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "concepts.html#research-data-lifecycle",
+    "href": "concepts.html#research-data-lifecycle",
+    "title": "1  Key Concepts",
+    "section": "1.2 Research Data Lifecycle",
+    "text": "1.2 Research Data Lifecycle\n\n\nThe research data lifecycle is like a journey that research data takes from the moment you plan your study and gather information, all the way to storing it safely or deciding what to do with it afterward. Think of it as a roadmap that helps researchers keep their data organized, trustworthy, and useful at every step of their project.\n\n\n\nSource: Alper et al. (2025) RDMkit",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "concepts.html#research-data-management",
+    "href": "concepts.html#research-data-management",
+    "title": "1  Key Concepts",
+    "section": "1.3 Research Data Management",
+    "text": "1.3 Research Data Management\n\n\nRDM refers to the active organization and maintenance of data created during a research project.\nIt is an ongoing activity throughout the data lifecycle, from initial planning to suitable archiving of the data at the project’s completion.\nIf you plan in advance and invest in good (FAIR) data management practices\n\n\n\nSource: Jørgen Stamp (https://digitalbevaring.dk) \n\n\n\n————–&gt;&gt;&gt;&gt;&gt; link to importance of RDM in intro",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "concepts.html#fair-data",
+    "href": "concepts.html#fair-data",
+    "title": "1  Key Concepts",
+    "section": "1.4 FAIR data",
+    "text": "1.4 FAIR data\n\n\nAfter you collect it, you want your data to keep having an impact, even if you move labs. Therefore the data needs to be usable and understandable by you, but also your research group and preferably you want it to be fit for reuse by other labs. And then the question is: how trustworthy and sharable is your data?\nThis is where making your data FAIR comes into play.\n\n\n\nSource: Center for Open Science",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "concepts.html#open-data",
+    "href": "concepts.html#open-data",
+    "title": "1  Key Concepts",
+    "section": "1.5 Open data",
+    "text": "1.5 Open data\n\n\n“Open Data is data that can be freely used, re-used and redistributed by anyone subject only, at most, to the requirements to attribute and share-alike”\n(link to The Open Data Handbook)\nThe A in FAIR means accessible, but that does not immediately mean that your data needs to be fully open for everybody to use. So if there are privacy or patent issues, you can still perform FAIR practices, without having your data openly available.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
+    ]
+  },
+  {
+    "objectID": "plan.html",
+    "href": "plan.html",
+    "title": "2  Planning your experiments",
+    "section": "",
+    "text": "Slides\nIt all starts with a good plan!",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Planning your experiments</span>"
+    ]
+  },
+  {
+    "objectID": "plan.html#data-management-plans-dmps",
+    "href": "plan.html#data-management-plans-dmps",
+    "title": "2  Planning your experiments",
+    "section": "2.1 Data Management Plans (DMPs)",
+    "text": "2.1 Data Management Plans (DMPs)\nNot just because you have to! ? data collection tables?",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Planning your experiments</span>"
+    ]
+  },
+  {
+    "objectID": "plan.html#data-flow-diagrams",
+    "href": "plan.html#data-flow-diagrams",
+    "title": "2  Planning your experiments",
+    "section": "2.2 Data Flow Diagrams",
+    "text": "2.2 Data Flow Diagrams\nLet it flow…",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Planning your experiments</span>"
+    ]
+  },
+  {
+    "objectID": "collect.html",
+    "href": "collect.html",
+    "title": "3  Collecting data",
+    "section": "",
+    "text": "Slides",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Collecting data</span>"
+    ]
+  },
+  {
+    "objectID": "collect.html#data-collection-table",
+    "href": "collect.html#data-collection-table",
+    "title": "3  Collecting data",
+    "section": "3.1 Data collection table",
+    "text": "3.1 Data collection table\n? link to Plan?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Collecting data</span>"
+    ]
+  },
+  {
+    "objectID": "collect.html#preferred-formats",
+    "href": "collect.html#preferred-formats",
+    "title": "3  Collecting data",
+    "section": "3.2 Preferred formats",
+    "text": "3.2 Preferred formats\nSome formats are preferable. ?DeepDive: conversion methods?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Collecting data</span>"
+    ]
+  },
+  {
+    "objectID": "process_analyse.html",
+    "href": "process_analyse.html",
+    "title": "4  Processing and analysing your data",
+    "section": "",
+    "text": "Slides",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Processing and analysing your data</span>"
+    ]
+  },
+  {
+    "objectID": "process_analyse.html#data-organisation",
+    "href": "process_analyse.html#data-organisation",
+    "title": "4  Processing and analysing your data",
+    "section": "4.1 Data organisation",
+    "text": "4.1 Data organisation\n\n4.1.1 Folder structure\n\n\n4.1.2 File naming\n\n\n4.1.3 Version control",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Processing and analysing your data</span>"
+    ]
+  },
+  {
+    "objectID": "process_analyse.html#data-documentation",
+    "href": "process_analyse.html#data-documentation",
+    "title": "4  Processing and analysing your data",
+    "section": "4.2 Data documentation",
+    "text": "4.2 Data documentation\n\n4.2.1 Documentation\n\n\n4.2.2 Metadata\n\n\n4.2.3 Codebooks",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Processing and analysing your data</span>"
+    ]
+  },
+  {
+    "objectID": "preserve.html",
+    "href": "preserve.html",
+    "title": "5  Preserving data",
+    "section": "",
+    "text": "Slides",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Preserving data</span>"
+    ]
+  },
+  {
+    "objectID": "preserve.html#storing-data",
+    "href": "preserve.html#storing-data",
+    "title": "5  Preserving data",
+    "section": "5.1 Storing data",
+    "text": "5.1 Storing data\n\n5.1.1 Storage solutions\n\n\n5.1.2 Personal data\n\n\n5.1.3 Data security and privacy",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Preserving data</span>"
+    ]
+  },
+  {
+    "objectID": "preserve.html#archiving-data",
+    "href": "preserve.html#archiving-data",
+    "title": "5  Preserving data",
+    "section": "5.2 Archiving data",
+    "text": "5.2 Archiving data",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Preserving data</span>"
+    ]
+  },
+  {
+    "objectID": "share.html",
+    "href": "share.html",
+    "title": "6  Sharing your data",
+    "section": "",
+    "text": "Slides\nLink to open data",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Sharing your data</span>"
+    ]
+  },
+  {
+    "objectID": "share.html#data-publication",
+    "href": "share.html#data-publication",
+    "title": "6  Sharing your data",
+    "section": "6.1 Data publication",
+    "text": "6.1 Data publication\n\n6.1.1 Publishing data\n\n\n6.1.2 Repositories\n\n\n6.1.3 Licensing",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Sharing your data</span>"
+    ]
+  },
+  {
+    "objectID": "share.html#data-publication-papers-deep-dive",
+    "href": "share.html#data-publication-papers-deep-dive",
+    "title": "6  Sharing your data",
+    "section": "6.2 Data Publication Papers (Deep Dive)",
+    "text": "6.2 Data Publication Papers (Deep Dive)",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Sharing your data</span>"
+    ]
+  },
+  {
+    "objectID": "reuse.html",
+    "href": "reuse.html",
+    "title": "7  Data Reuse",
+    "section": "",
+    "text": "Slides",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Reuse</span>"
+    ]
+  },
+  {
+    "objectID": "reuse.html#exploring-published-datasets",
+    "href": "reuse.html#exploring-published-datasets",
+    "title": "7  Data Reuse",
+    "section": "7.1 Exploring published datasets",
+    "text": "7.1 Exploring published datasets\n\n7.1.1 Finding\n\n\n7.1.2 Quality control",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Data Reuse</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "8  References",
+    "section": "",
+    "text": "Alper, P., D’Anna, F., Droesbeke, B., Andrabi, M., Buono, R. A.,\nBianchini, F., Bösl, K., Chandramouliswaran, I., Cook, M., Faria, D.,\nFatima, N., Hooft, R., Jareborg, N., Jetten, M., Pilvar, D.,\nPoires-Oliveira, G., Popleteeva, M., Portell-Silva, L., Slifka, J., …\nGoble, C. (2025). RDMkit: A research data management\ntoolkit for life sciences. Patterns. https://doi.org/10.1016/j.patter.2025.101345",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>References</span>"
+    ]
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "9  Further support",
+    "section": "",
+    "text": "Additional support at the UU:",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Further support</span>"
+    ]
+  }
+]

@@ -1,0 +1,460 @@
+--- 
+title: "Quickstart_Slides" 
+format: 
+  revealjs: 
+    slide-number: true 
+    hash: true 
+    width: 1600 
+    height: 900 
+    embed-resources: true
+---
+
+## Quickstart {#quickstart}
+
+![](Quickstart_v05/Slide01.jpg)
+
+---
+
+## Today {#today1}
+
+![](Quickstart_v05/Slide02.jpg)
+
+---
+
+## Data {#data}
+
+![](Quickstart_v05/Slide03.jpg)
+
+---
+
+## FutureData {#futuredata}
+
+![](Quickstart_v05/Slide04.jpg)
+
+---
+
+## Lifecyce {#lifecyce}
+
+![](Quickstart_v05/Slide05.jpg)
+
+---
+
+## RDM {#rdm}
+
+![](Quickstart_v05/Slide06.jpg)
+
+---
+
+## ImportanceRDM {#importancerdm}
+
+![](Quickstart_v05/Slide07.jpg)
+
+---
+
+## GoalRDM {#goalrdm}
+
+![](Quickstart_v05/Slide08.jpg)
+
+---
+
+## FAIR {#fair}
+
+![](Quickstart_v05/Slide09.jpg)
+
+---
+
+## Parasite {#parasite}
+
+![](Quickstart_v05/Slide10.jpg)
+
+---
+
+## OpenData {#opendata}
+
+![](Quickstart_v05/Slide11.jpg)
+
+---
+
+## RDM_FAIR_Open {#rdm_fair_open}
+
+![](Quickstart_v05/Slide12.jpg)
+
+---
+
+## RDM_FAIR_Open2 {#rdm_fair_open2}
+
+![](Quickstart_v05/Slide13.jpg)
+
+---
+
+## Today2 {#today2}
+
+![](Quickstart_v05/Slide14.jpg)
+
+---
+
+## PLAN {#plan}
+
+![](Quickstart_v05/Slide15.jpg)
+
+---
+
+## DMP {#dmp}
+
+![](Quickstart_v05/Slide16.jpg)
+
+---
+
+## DMPexample {#dmpexample}
+
+![](Quickstart_v05/Slide17.jpg)
+
+---
+
+## DMPonline {#dmponline}
+
+![](Quickstart_v05/Slide18.jpg)
+
+---
+
+## COLLECT {#collect}
+
+![](Quickstart_v05/Slide19.jpg)
+
+---
+
+## CollectionTable {#collectiontable}
+
+![](Quickstart_v05/Slide20.jpg)
+
+---
+
+## Formats {#formats}
+
+![](Quickstart_v05/Slide21.jpg)
+
+---
+
+## Filetypes {#filetypes}
+
+![](Quickstart_v05/Slide22.jpg)
+
+---
+
+## ORGANISING {#organising}
+
+![](Quickstart_v05/Slide23.jpg)
+
+---
+
+## BadExample {#badexample}
+
+![](Quickstart_v05/Slide24.jpg)
+
+---
+
+## GetStructure {#getstructure}
+
+![](Quickstart_v05/Slide25.jpg)
+
+---
+
+## CleanData {#cleandata}
+
+![](Quickstart_v05/Slide26.jpg)
+
+---
+
+## ProjectPackage {#projectpackage}
+
+![](Quickstart_v05/Slide27.jpg)
+
+---
+
+## Directory {#directory}
+
+![](Quickstart_v05/Slide28.jpg)
+
+---
+
+## FolderTools {#foldertools}
+
+![](Quickstart_v05/Slide29.jpg)
+
+---
+
+## Filenames {#filenames}
+
+![](Quickstart_v05/Slide30.jpg)
+
+---
+
+## Conventions {#conventions}
+
+![](Quickstart_v05/Slide31.jpg)
+
+---
+
+## Naming_Metadata {#naming_metadata}
+
+![](Quickstart_v05/Slide32.jpg)
+
+---
+
+## Version {#version}
+
+![](Quickstart_v05/Slide33.jpg)
+
+---
+
+## Readable {#readable}
+
+![](Quickstart_v05/Slide34.jpg)
+
+---
+
+## BREAK {#break}
+
+![](Quickstart_v05/Slide35.jpg)
+
+---
+
+## DOCUMENTATION {#documentation}
+
+![](Quickstart_v05/Slide36.jpg)
+
+---
+
+## Botanical {#botanical}
+
+![](Quickstart_v05/Slide37.jpg)
+
+---
+
+## Documentation {#documentation2}
+
+![](Quickstart_v05/Slide38.jpg)
+
+---
+
+## Readme {#readme}
+
+![](Quickstart_v05/Slide39.jpg)
+
+---
+
+## Metadata {#metadata}
+
+![](Quickstart_v05/Slide40.jpg)
+
+---
+
+## MDLevels {#mdlevels}
+
+![](Quickstart_v05/Slide41.jpg)
+
+---
+
+## MDStandards {#mdstandards}
+
+![](Quickstart_v05/Slide42.jpg)
+
+---
+
+## MinRep {#minrep}
+
+![](Quickstart_v05/Slide43.jpg)
+
+---
+
+## Codebooks {#codebooks}
+
+![](Quickstart_v05/Slide44.jpg)
+
+---
+
+## CBexample {#cbexample}
+
+![](Quickstart_v05/Slide45.jpg)
+
+---
+
+## STORING {#storing}
+
+![](Quickstart_v05/Slide46.jpg)
+
+---
+
+## Considerations {#considerations}
+
+![](Quickstart_v05/Slide47.jpg)
+
+---
+
+## Options {#options}
+
+![](Quickstart_v05/Slide48.jpg)
+
+---
+
+## Solutions {#solutions}
+
+![](Quickstart_v05/Slide49.jpg)
+
+---
+
+## GDPR {#gdpr}
+
+![](Quickstart_v05/Slide50.jpg)
+
+---
+
+## Processing {#processing}
+
+![](Quickstart_v05/Slide51.jpg)
+
+---
+
+## Security {#security}
+
+![](Quickstart_v05/Slide52.jpg)
+
+---
+
+## Privacy {#privacy}
+
+![](Quickstart_v05/Slide53.jpg)
+
+---
+
+## Depersonalize {#depersonalize}
+
+![](Quickstart_v05/Slide54.jpg)
+
+---
+
+## Handbook {#handbook}
+
+![](Quickstart_v05/Slide55.jpg)
+
+---
+
+## ARCHIVING {#archiving}
+
+![](Quickstart_v05/Slide56.jpg)
+
+---
+
+## WhyArchive {#whyarchive}
+
+![](Quickstart_v05/Slide57.jpg)
+
+---
+
+## ArchivePackage {#archivepackage}
+
+![](Quickstart_v05/Slide58.jpg)
+
+---
+
+## PUBLISHING {#publishing}
+
+![](Quickstart_v05/Slide59.jpg)
+
+---
+
+## WhyPublish {#whypublish}
+
+![](Quickstart_v05/Slide60.jpg)
+
+---
+
+## Descriptor {#descriptor}
+
+![](Quickstart_v05/Slide61.jpg)
+
+---
+
+## PublicationPackage {#publicationpackage}
+
+![](Quickstart_v05/Slide62.jpg)
+
+---
+
+## Repositories {#repositories}
+
+![](Quickstart_v05/Slide63.jpg)
+
+---
+
+## RepoFinder {#repofinder}
+
+![](Quickstart_v05/Slide64.jpg)
+
+---
+
+## OpenData2 {#opendata2}
+
+![](Quickstart_v05/Slide65.jpg)
+
+---
+
+## CC {#cc}
+
+![](Quickstart_v05/Slide66.jpg)
+
+---
+
+## CustomLicense {#customlicense}
+
+![](Quickstart_v05/Slide67.jpg)
+
+---
+
+## AIpolicy {#aipolicy}
+
+![](Quickstart_v05/Slide68.jpg)
+
+---
+
+## REUSE {#reuse}
+
+![](Quickstart_v05/Slide69.jpg)
+
+---
+
+## Explore {#explore}
+
+![](Quickstart_v05/Slide70.jpg)
+
+---
+
+## RDM_Cycle {#rdm_cycle}
+
+![](Quickstart_v05/Slide71.jpg)
+
+---
+
+## Support_Cycle {#support_cycle}
+
+![](Quickstart_v05/Slide72.jpg)
+
+---
+
+## UB_RDMsupport {#ub_rdmsupport}
+
+![](Quickstart_v05/Slide73.jpg)
+
+---
+
+## Assignments {#assignments}
+
+![](Quickstart_v05/Slide74.jpg)
+
+---
+
+## TheEnd {#theend}
+
+![](Quickstart_v05/Slide75.jpg)
+
+---
