@@ -124,7 +124,7 @@
     "href": "concepts.html#open-data",
     "title": "1  Key Concepts",
     "section": "1.5 Open data",
-    "text": "1.5 Open data\n\n\n“Open Data is data that can be freely used, re-used and redistributed by anyone subject only, at most, to the requirements to attribute and share-alike”\n(link to The Open Data Handbook)\nThe A in FAIR means accessible, but that does not immediately mean that your data needs to be fully open for everybody to use. So if there are privacy or patent issues, you can still perform FAIR practices, without having your data openly available.",
+    "text": "1.5 Open data\n\n\n“Open Data is data that can be freely used, re-used and redistributed by anyone subject only, at most, to the requirements to attribute and share-alike ”\n(link to The Open Data Handbook)\nThe A in FAIR means accessible, but that does not immediately mean that your data needs to be fully open for everybody to use. So if there are privacy or patent issues, you can still perform FAIR practices, without having your data openly available.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Key Concepts</span>"
     ]
@@ -304,7 +304,7 @@
     "href": "references.html",
     "title": "8  References",
     "section": "",
-    "text": "Alper, P., D’Anna, F., Droesbeke, B., Andrabi, M., Buono, R. A.,\nBianchini, F., Bösl, K., Chandramouliswaran, I., Cook, M., Faria, D.,\nFatima, N., Hooft, R., Jareborg, N., Jetten, M., Pilvar, D.,\nPoires-Oliveira, G., Popleteeva, M., Portell-Silva, L., Slifka, J., …\nGoble, C. (2025). RDMkit: A research data management\ntoolkit for life sciences. Patterns. https://doi.org/10.1016/j.patter.2025.101345",
+    "text": "Alper, P., D’Anna, F., Droesbeke, B., Andrabi, M.,\nBuono, R. A., Bianchini, F., Bösl, K., Chandramouliswaran, I., Cook, M.,\nFaria, D., Fatima, N., Hooft, R., Jareborg, N., Jetten, M., Pilvar, D.,\nPoires-Oliveira, G., Popleteeva, M., Portell-Silva, L., Slifka, J., …\nGoble, C. (2025). RDMkit: A research data management\ntoolkit for life sciences. Patterns. https://doi.org/10.1016/j.patter.2025.101345",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>References</span>"
     ]
