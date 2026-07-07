@@ -1,3 +1,3 @@
 # workshop-rdm
 
-helpppppp
+Together we can make it work
