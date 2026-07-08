@@ -9,7 +9,7 @@ title: "Collecting data"
 <iframe
   class="slide-deck"
   src="slides/slides_quick.html#/collect"
-  style="width:100%; height:80vh; border:none;">
+  style="width:100%; height:60vh; border:none;">
 </iframe>
 ```
 
